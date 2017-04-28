@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>config</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>com.baidu.com</string>
+			<key>show</key>
+			<true/>
+			<key>URL</key>
+			<string>http://www.baidu.com</string>
+		</dict>
+	</array>
+</dict>
+</plist>

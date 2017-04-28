@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>config</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>com.baidu.com</string>
-			<key>show</key>
-			<true/>
-			<key>URL</key>
-			<string>http://www.baidu.com</string>
-		</dict>
-	</array>
-</dict>
+<array>
+	<dict>
+		<key>id</key>
+		<string>com.jiuwcom.jiuwcom332</string>
+		<key>isshowwap</key>
+		<false/>
+		<key>wapurl</key>
+		<string>http://www.cnblogs.com/luyinghuai/archive/2011/02/15/1955127.html</string>
+	</dict>
+</array>
 </plist>
